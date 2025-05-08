@@ -1,0 +1,1 @@
+This repository contains a comprehensive set of SQL queries and operations performed on a sample professionals database. It is designed to help learners and developers practice and master essential SQL concepts, including data selection, filtering, string manipulation, aggregation, and grouping.
